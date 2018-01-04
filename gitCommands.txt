@@ -1,0 +1,27 @@
+git push
+git pull
+git checkout <name of branch> //(change branches)
+git checkout -b <name of branch> //(create a new branch)
+git branch // list all branches
+git branch <name of branch> // create new branch
+git remote add origin <url>
+git push -u origin master
+git push -u origin <name of branch> // set branch to be pushing
+git pull origin master
+git push origin master
+git config --global user.name OR user.email "string here" //(name/email within quotes)
+git config --list
+git help <verb>
+git add -A //add all files to staging area
+git add <filename here>
+git status
+git reset //reset all files
+git reset <file name> //remove from current staging
+git commit
+git commit -m "message here"
+git clone <url> <where to clone> // (use . for cur directory)
+git diff // show changes
+git branch --merged
+git branch
+git branch -d <name of branch> // delete local branch
+git push origin --delete <name of branch> // delete remote branch
