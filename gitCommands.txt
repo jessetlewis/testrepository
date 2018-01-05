@@ -26,3 +26,4 @@ git branch
 git branch -d <name of branch> // delete local branch
 git push origin --delete <name of branch> // delete remote branch
 master branch
+0101010101001001011110110010
